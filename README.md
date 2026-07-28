@@ -6,7 +6,7 @@ Junior Full-Stack Web Developer based in Dresden, Germany — transitioned into 
 
 **[Tagesmappe](https://www.tagesmappe.de)** — a SaaS product for time tracking and leave management, built for businesses.
 I own the business logic, UX/wireframes, responsive design, testing, edge cases, and code validation, and use AI assistants (Claude, Codex) to help implement more complex code as part of my development workflow.
-*(Currently in active development — source is private, but the product is live.)*
+*(Currently in active development — source is private, but the product will be live soon!)*
 
 ## Stack
 
