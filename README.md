@@ -3,13 +3,19 @@
 Junior Full-Stack Web Developer based in Dresden, Germany — transitioned into software development after 16+ years in the 3D CAD industry.
 
 ## What I'm building
+**[Webdesign Burke](https://webdesign-burke.de/)** - my freelance business.
+- Aiming to rebuild older existing websites with a modern design.
+- Improving overall user experience.
+- Main focus to optimize websites for mobile use
 
-**[Tagesmappe](https://www.tagesmappe.de)** — a SaaS product for time tracking and leave management, built for businesses.
-I own the business logic, UX/wireframes, responsive design, testing, edge cases, and code validation, and use AI assistants (Claude, Codex) to help implement more complex code as part of my development workflow.
-*(Currently in active development — source is private, but the product will be live soon!)*
+## Most Recent
+**[Tagesmappe](https://www.tagesmappe.de)** — a SaaS product for time tracking and leave management, built for businesses (portfolio project).
+- I own the business logic, UX/wireframes, responsive design, testing, edge cases, and code validation.
+- In this project I actively adopted AI coding assistants (Claude, Codex) to help implement more complex code as part of my development workflow.
+- This was an amazing learning curve for me in my journey as full-stack web developer.
+- I decided to keep the repo private as it is based on real world SaaS applications.
 
 ## Stack
-
 - **Languages:** HTML, CSS, JavaScript, Python
 - **Frameworks & Libraries:** Django, jQuery, Bootstrap
 - **Database:** PostgreSQL
